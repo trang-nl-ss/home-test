@@ -1,0 +1,13 @@
+.table-wrapper {
+  padding: 50px;
+}
+.table-wrapper__header span {
+  margin-right: 10px;
+}
+.table-wrapper__header input {
+  font-size: 20px;
+}
+.table-wrapper__content {
+  display: flex;
+  margin-top: 20px;
+}
