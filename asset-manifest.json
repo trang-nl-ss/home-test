@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trang-nl-ss/home-test/static/css/main.232f8f01.css",
+    "main.js": "/trang-nl-ss/home-test/static/js/main.fab1ff39.js",
+    "static/js/787.28cb0dcd.chunk.js": "/trang-nl-ss/home-test/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/trang-nl-ss/home-test/index.html",
+    "main.232f8f01.css.map": "/trang-nl-ss/home-test/static/css/main.232f8f01.css.map",
+    "main.fab1ff39.js.map": "/trang-nl-ss/home-test/static/js/main.fab1ff39.js.map",
+    "787.28cb0dcd.chunk.js.map": "/trang-nl-ss/home-test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.232f8f01.css",
+    "static/js/main.fab1ff39.js"
+  ]
+}
